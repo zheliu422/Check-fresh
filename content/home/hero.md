@@ -4,10 +4,10 @@ headless: true
 weight: 10
 title: Beverages Freshness Checker
 hero_media: student.svg
-design: test.jpg
+design:
 cta:
   url: course/
-  label: Explore our courses
+  label: Explore our product
   icon_pack: fas
   icon: user-graduate
 cta_alt:
@@ -20,8 +20,8 @@ advanced:
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Help prevent sickness!
 
-Introduce your courses here.
+Introduce product here.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+
