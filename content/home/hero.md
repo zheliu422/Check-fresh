@@ -4,12 +4,7 @@ headless: true
 weight: 10
 title: Beverages Freshness Checker
 hero_media: student.svg
-design:
-  background:
-    gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
-    text_color_light: false
+design: test.jpg
 cta:
   url: course/
   label: Explore our courses
