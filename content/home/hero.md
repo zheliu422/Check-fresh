@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Beverages Freshness Checker
 hero_media: student.svg
 design:
   background:
