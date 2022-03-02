@@ -33,5 +33,7 @@ advanced:
 ---
 <br>
 
-Have you ever wondered if the expiration date on your milk is accurate? Check-fresh has made smart prodect that give consumers more confidence in the freshness of their milk in a sustainable way that also reduces food waste! If you had had a Check-fresh device, you would have been able to check that the milk was spoilt and you would not have wasted that last bow!
+Have you ever wondered if the expiration date on your beverage is accurate? Do you feel comfortable wasting food?
+
+Hey! We has made smart device that give you more confidence in the freshness of your drink in a sustainable way that also reduces food waste!
 
