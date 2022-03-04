@@ -12,23 +12,20 @@ type: book
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Our Project Motivation
+- Our Solution in Detail
+- Cheat-Sheet for you to use
 
-## Program overview
+## Project Overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+People are not completely confident in the expiration dates that are on food packaging. This is because they are not accurate! They are more like a guideline and the product can often still be consumed long after the date on your milk carton. In North America, 42% of the total food available is lost or wasted and 61% of that is coming from the end consumer. If we can penetrate this industry starting with dairy, we can showcase a new age of packaging technology that can revolutionize and limit food wastage.
+
 
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Place Holder?" >}}
+xxxxxxx
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the Explore" cta_link="python" >}}
