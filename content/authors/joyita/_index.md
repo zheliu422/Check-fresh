@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Shida Zhang
+title: Joyita Roy
 
 # Username (this should match the folder name)
 authors:
-- Shida Zhang
+- Joyita Roy
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,18 @@ organizations:
   url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is circuit design.
+bio: My research interests is cloud computing
 
 interests:
-- Analog Circuit Design
+- Cloud computing
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
-    institution: Georgia Institute of Technology
-    year: 2025
   - course: MS in Electrical Engineering
     institution: Georgia Institute of Technology
     year: 2022
   - course: BSc in Electrical Engineering
-    institution: University of Colorado Boulder
+    institution: Georgia Institute of Technology
     year: 2020
 
 # Social/Academic Networking
@@ -42,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:shida.zhang@gatech.edu'
+  link: 'mailto:joyitaroy121197@gatech.edu'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
