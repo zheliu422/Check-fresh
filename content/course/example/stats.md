@@ -1,5 +1,5 @@
 ---
-title: Statistics
+title: Cheat Sheet
 date: '2021-01-01'
 type: book
 weight: 40
@@ -8,14 +8,12 @@ tags:
   - Statistics
 ---
 
-Introduction to statistics for data science.
+Introduction to statistics.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
 ## Learn
-
+BELOW ALL ALL TEST VERSION!!!
 The general form of the **normal** probability density function is:
 
 $$
