@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Pre-order!
-subtitle:
+title: Pre-order Now!
+subtitle: The future of freshness is here
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
+  email: check.fresh@gatech.edu
   appointment_url: 'https://calendly.com'
   contact_links:
   - icon: comments
@@ -32,10 +32,11 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Have you ever wondered if the expiration date on your drink is accurate? Check-Fresh has made smart device that give consumers more confidence in the freshness of their beverages in a sustainable way that also reduces food waste.
+Pre-ordering a Check-Fresh smart lid helps you secure your device before they hit the market. A limited number of will be available during the pre-ordering time frame. The remaining stock will be available once they arrived in-store.
