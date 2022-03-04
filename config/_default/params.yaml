@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2022} Check-Fresh. This work is for ECE 6001 uses only'
     license:
       enable: true
       allow_derivatives: false
