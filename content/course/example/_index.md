@@ -1,6 +1,6 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
+title: 📊 Learn Out Product
+linkTitle: Product
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
@@ -20,13 +20,6 @@ type: book
 
 The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
-## Courses in this program
-
-{{< list_children >}}
-
-## Meet your instructor
-
-{{< mention "admin" >}}
 
 ## FAQs
 
