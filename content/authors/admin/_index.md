@@ -1,21 +1,21 @@
 ---
 # Display name
-title: 吳恩達
+title: Shida Zhang
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Shida Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Designer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Georgia Institute of Technology
+  url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
