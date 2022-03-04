@@ -11,9 +11,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Data Visualization
+    - name: Specs
       tag: Data Visualization
-    - name: Statistics
+    - name: Cheat Sheets
       tag: Statistics
 design:
   columns: '1'
