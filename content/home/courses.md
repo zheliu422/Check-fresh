@@ -2,14 +2,14 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explore top courses
+title: Explore More of Our Product
 subtitle:
 content:
   page_type: book
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: All
       tag: '*'
     - name: Data Visualization
       tag: Data Visualization
