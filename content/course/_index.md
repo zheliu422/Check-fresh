@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Product
 type: page
 
 view: compact
@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Explore our product below and expand your knowledge!
