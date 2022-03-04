@@ -15,9 +15,6 @@ main:
     url: '/course/example/'
     weight: 10
     parent: courses
-  - name: Blog
-    url: '/post'
-    weight: 30
-  - name: Contact
+  - name: Pre-order
     url: '/contact'
     weight: 60
