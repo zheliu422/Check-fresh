@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-  title: Buy Now
+title: Contact
 subtitle:
 
 content:
