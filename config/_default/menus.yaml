@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Product
     url: '/course'
     weight: 20
     identifier: courses
