@@ -35,5 +35,5 @@ advanced:
 
 Have you ever wondered if the expiration date on your beverage is accurate? Do you feel comfortable wasting food?
 
-Hey! We has made smart device that give you more confidence in the freshness of your drink in a sustainable way that also reduces food waste!
+Hi there! We have made smart device that gives you more confidence in the freshness of your drink in a sustainable way that also reduces food waste!
 
