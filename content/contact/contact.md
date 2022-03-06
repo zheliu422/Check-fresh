@@ -38,5 +38,5 @@ design:
   columns: '1'
 ---
 
-Have you ever wondered if the expiration date on your drink is accurate? Check-Fresh has made smart device that give consumers more confidence in the freshness of their beverages in a sustainable way that also reduces food waste.
+Have you ever wondered if the expiration date on your drink is accurate? Check-Fresh has made a smart device that gives consumers more confidence in the freshness of their beverages in a sustainable way that also reduces food waste.
 Pre-ordering a Check-Fresh smart lid helps you secure your device before they hit the market. A limited number of will be available during the pre-ordering time frame. The remaining stock will be available once they arrived in-store.
