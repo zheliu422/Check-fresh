@@ -4,7 +4,7 @@ subtitle:
 widget: contact
 # This file represents a page section.
 headless: true
-weight: 10
+weight: 50
 
 content:
   # Contact (edit or remove options as required)
