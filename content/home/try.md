@@ -1,10 +1,11 @@
 ---
 title: Leave us a Feedback
 subtitle:
-widget: blank
-weight: 50
-design:
-  columns: '1'
+widget: contact
+# This file represents a page section.
+headless: true
+weight: 10
+
 content:
   # Contact (edit or remove options as required)
   email: check.fresh@gatech.edu
@@ -26,6 +27,7 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
+ 
+design:
+  columns: '1'
 ---
-
-{{% cta cta_link="./Contact/" cta_text="Click here!" %}}
