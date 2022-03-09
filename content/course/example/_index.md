@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Out Product
+title: 📊 Learn Our Product
 linkTitle: Product
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+summary: 
+date: '2022-03-04'
 type: book
 ---
 
