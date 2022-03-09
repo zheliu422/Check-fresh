@@ -19,13 +19,15 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 cta:
+  url: contact/course/
+  label: Pre-order NOW!!!
+  icon_pack: fas
+  icon: file-certificate
+cta_alt:
   url: course/
   label: Explore our product
   icon_pack: fas
   icon: file-certificate
-cta_alt:
-  url: contact/ 
-  label: Pre-order
 cta_note:
   label:
 advanced:
