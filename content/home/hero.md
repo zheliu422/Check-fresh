@@ -22,12 +22,10 @@ cta:
   url: contact/
   label: Pre-order NOW
   icon_pack: fas
-  icon: file-certificate
+  icon: shop
 cta_alt:
   url: course/
   label: Explore our product
-  icon_pack: fas
-  icon: file-certificate
 cta_note:
   label:
 advanced:
