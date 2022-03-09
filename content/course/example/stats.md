@@ -13,7 +13,8 @@ Introduction to statistics.
 <!--more-->
 
 ## Learn
-BELOW ALL ALL TEST VERSION!!!
+BELOW ALL ALL TESTS !!!
+************************
 The general form of the **normal** probability density function is:
 
 $$
