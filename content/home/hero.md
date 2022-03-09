@@ -23,6 +23,11 @@ cta:
   label: Explore our product
   icon_pack: fas
   icon: file-certificate
+cta:
+  url: contact/
+  label: Pre-order
+  icon_pack: fas
+  icon: file-certificate
 cta_alt:
   url:
   label:
