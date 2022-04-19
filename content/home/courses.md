@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Specs
+    - name: MVP
       tag: Data Visualization
-    - name: Cheat Sheets
-      tag: Statistics
+    - name: Lab Tests
+      tag: lab
 design:
   columns: '1'
   view: 3
