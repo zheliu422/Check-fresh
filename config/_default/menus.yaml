@@ -8,7 +8,7 @@ main:
     url: '/'
     weight: 10
   - name: Product
-    url: '/course/example/'
+    url: '/course/'
     weight: 20
     identifier: courses
   - name: Pre-order
