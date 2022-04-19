@@ -1,5 +1,5 @@
 ---
-title: Lab Experiment
+title: Lab Testing
 date: '2022-04-17'
 type: book
 weight: 30
@@ -7,7 +7,7 @@ highlight: true
 tags:
   - lab
 ---
-Lab Experiment
+Lab Testing
 <!--more-->
 
 ## What you will learn
