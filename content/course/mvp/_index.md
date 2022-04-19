@@ -1,7 +1,6 @@
 ---
 title: 📊 Minimum Viable Product
 linkTitle: Product
-summary: 
 date: '2022-04-17'
 type: book
 ---
