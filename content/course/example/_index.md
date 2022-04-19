@@ -1,5 +1,5 @@
 ---
-title: 📊 Learn Our Product
+title: 📊 Product Background
 linkTitle: Product
 summary: 
 date: '2022-03-04'
