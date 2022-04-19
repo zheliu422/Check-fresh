@@ -12,7 +12,7 @@ content:
     - name: All
       tag: '*'
     - name: MVP
-      tag: Data Visualization
+      tag: mvp
     - name: Lab Tests
       tag: lab
 design:
