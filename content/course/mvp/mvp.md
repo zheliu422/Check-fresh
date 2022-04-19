@@ -13,7 +13,6 @@ Our Minimum Viable Product (MVP)
 <!--more-->
 
 ## What you will learn
-
 - Our Minimum Viable Product (MVP)
 
 ## Project Overview
