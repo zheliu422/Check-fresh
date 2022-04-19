@@ -9,6 +9,8 @@ highlight: true
 tags:
   - mvp
 ---
+Our Minimum Viable Product (MVP)
+<!--more-->
 
 ## What you will learn
 
