@@ -1,7 +1,7 @@
 ---
 title: Minimum Viable Product
 linkTitle: Product
-summary: tes11111111
+summary: In this section, you will see how we utilizing the pH Indicators as a measure of spoilage.
 date: '2022-04-17'
 type: book
 ---
