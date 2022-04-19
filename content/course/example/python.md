@@ -4,7 +4,7 @@ date: '2022-03-01'
 type: book
 weight: 20
 ---
-Out project motivation
+Our project motivation
 <!--more-->
 
 ## Learn
