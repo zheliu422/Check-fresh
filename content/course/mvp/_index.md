@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Our Product
+title: 📊 Minimum Viable Product
 linkTitle: Product
 summary: 
-date: '2022-03-04'
+date: '2022-04-17'
 type: book
 ---
 
@@ -12,21 +12,16 @@ type: book
 
 ## What you will learn
 
-- Our Project Motivation
-- Our Solution in Detail
-- Cheat-Sheet for you to use
+- Our Minimum Viable Product (MVP)
+- Lab Experiment
 
 ## Project Overview
 
-People are not completely confident in the expiration dates that are on food packaging. This is because they are not accurate! They are more like a guideline and the product can often still be consumed long after the date on your milk carton. In North America, 42% of the total food available is lost or wasted and 61% of that is coming from the end consumer. If we can penetrate this industry starting with dairy, we can showcase a new age of packaging technology that can revolutionize and limit food wastage.
+The pH of unspoiled milk is approximately 6.7, a level at which many forms of bacteria thrive. Acidity increases as milk spoils; thus, acidity can be quantified to measure milk quality. In this section, you will see how we utilizing the pH Indicators as a measure of spoilage.
+
+## Learn
+
+{{< youtube lUtktuWzeaA >}}
 
 
-
-## FAQs
-
-{{< spoiler text="Place Holder?" >}}
-xxxxxxx
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the Explore" cta_link="python" >}}
-
+## Think about it...
