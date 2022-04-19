@@ -1,7 +1,6 @@
 ---
-title: 📊 Background
+title: Background
 linkTitle: Product
-summary: 
 date: '2022-03-04'
 type: book
 ---
