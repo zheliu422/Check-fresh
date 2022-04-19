@@ -3,7 +3,7 @@ title: Our Solution
 date: '2022-03-01'
 type: book
 weight: 30
-highlight: true
+highlight: false
 tags:
   - Data Visualization
 ---
