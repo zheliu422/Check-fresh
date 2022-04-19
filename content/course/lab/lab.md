@@ -7,9 +7,12 @@ highlight: true
 tags:
   - lab
 ---
-## What you will learn
+Lab Experiment
+<!--more-->
 
+## What you will learn
 - Lab Experiment
+
 
 ## Project Overview
 
