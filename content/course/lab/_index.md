@@ -4,10 +4,7 @@ linkTitle: Product
 summary: In this section, you will see how we utilizing the pH Indicators as a measure of spoilage.
 date: '2022-04-17'
 type: book
-weight: 30
-highlight: true
-tags:
-  - lab
+
 ---
 
 ## What you will learn
